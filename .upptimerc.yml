@@ -1,29 +1,33 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: IOIT-ACM
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: IOIT ACM Official Website
+    url: https://ioit.acm.org
+  - name: IOIT TENET Official Website
+    url: https://ioittenet.com
+  - name: IOIT MUN Official Website
+    url: https://mun.ioittenet.com
+  - name: IOIT ACM Link Shortener
+    url: https://links.ioit.acm.org
+  - name: IOIT ACM ChapterOS
+    url: https://os.ioit.acm.org
+  - name: IOIT ACM Hackathon
+    url: https://hack.ioittenet.com
+  - name: IOIT ACM Youth Parliament 
+    url: https://yp.ioit.acm.org
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.ioit.acm.org
+  logoUrl: https://avatars.githubusercontent.com/u/217227793?v=4
+  name: IOIT ACM Status
+  introTitle: "**IOIT ACM Status** - real-time uptime monitoring for our websites and services."
+  introMessage: This page tracks the live status and uptime history of IOIT ACM's websites and services, powered by [Upptime](https://upptime.js.org) — running entirely on GitHub Actions, Issues, and Pages, no server required. Found an issue? [Open one on GitHub](https://github.com/$OWNER/$REPO/issues/new).
   navbar:
     - title: Status
       href: /
+    - title: IOIT ACM
+      href: https://ioit.acm.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
