@@ -22,7 +22,8 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/217227793?v=4
   name: IOIT ACM Status
   introTitle: "**IOIT ACM Status** - real-time uptime monitoring for our websites and services."
-  introMessage: This page tracks the live status and uptime history of IOIT ACM's websites and services, powered by [Upptime](https://upptime.js.org) — running entirely on GitHub Actions, Issues, and Pages, no server required. Found an issue? [Open one on GitHub](https://github.com/$OWNER/$REPO/issues/new).
+  introMessage: This page tracks the live status and uptime history of IOIT ACM's websites and services. Found an issue? [Open one on GitHub](https://github.com/$OWNER/$REPO/issues/new).
+  theme: light
   navbar:
     - title: Status
       href: /
