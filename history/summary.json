@@ -4,9 +4,9 @@
     "url": "https://ioit.acm.org",
     "icon": "https://icons.duckduckgo.com/ip3/ioit.acm.org.ico",
     "slug": "ioit-acm-official-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 498,
     "timeMonth": 498,
     "timeYear": 498,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-22": 0
+    }
   },
   {
     "name": "IOIT TENET Official Website",
