@@ -61,20 +61,21 @@
     "url": "https://links.ioit.acm.org",
     "icon": "https://icons.duckduckgo.com/ip3/links.ioit.acm.org.ico",
     "slug": "ioit-acm-link-shortener",
-    "status": "up",
-    "uptime": "97.98%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.99%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.98%",
-    "time": 323,
-    "timeDay": 576,
+    "uptimeYear": "97.99%",
+    "time": 324,
+    "timeDay": 461,
     "timeWeek": 351,
-    "timeMonth": 323,
-    "timeYear": 323,
+    "timeMonth": 324,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2026-09-16": 952,
-      "2026-09-15": 862
+      "2026-09-15": 862,
+      "2026-10-21": 0
     }
   },
   {
